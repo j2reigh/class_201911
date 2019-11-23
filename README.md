@@ -1,2 +1,1 @@
-# j-archives
-http://www.j-archives.xyz
+# class_20191123
