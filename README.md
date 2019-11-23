@@ -1,2 +1,2 @@
-# j-archcives
+# j-archives
 http://www.j-archives.xyz
